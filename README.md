@@ -1,1 +1,1 @@
-# <img src="./logo.png"/>
+# <img src="./logo.png" style="width:50px;"/>
