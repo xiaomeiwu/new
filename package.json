@@ -1,0 +1,16 @@
+{
+  "name": "xm",
+  "version": "0.0.1",
+  "bin": {
+    "new": "./bin/new.js"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/xiaomeiwu/new",
+  "author": "xiaomeiwu <xiaomeiwu2020@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "4.1.0",
+    "github-api": "3.2.3",
+    "iconv-lite": "0.4.24"
+  }
+}
