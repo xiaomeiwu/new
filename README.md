@@ -1,1 +1,1 @@
-# ![new]('./logo.png)
+# <img src="./logo.png"/>
